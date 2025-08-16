@@ -37,6 +37,6 @@ This toolkit includes port scanning, Python file encoding, domain information re
 
 ```bash
 git clone https://github.com/PyWizs/PyWizTools/.git
-cd YOUR_REPO_NAME
+cd PyWizTools
 pip install -r requirements.txt
 python main.py
